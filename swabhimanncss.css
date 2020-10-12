@@ -10,12 +10,12 @@
 	margin-bottom:3.5rem;
 }
 .care-page-wrap{
-	width: 90%;
+
 	margin-right: auto;
 	margin-left: auto;
 	display: flex;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-around;
 	text-align: center;
 }
 .care-page-img-title{
@@ -24,7 +24,9 @@
   margin-top: 1.375rem;
   margin-bottom: 2.18rem;
 }
+.care-page-cat{
+	padding-right:;
+}
 .care-page-image{
-	width: 80%;
 }
 
